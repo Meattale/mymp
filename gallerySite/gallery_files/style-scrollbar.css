@@ -1,0 +1,183 @@
+#scrollbarY {
+  width: 575px;
+  margin: 20px 0 10px;
+  display: block;
+  margin: 0 auto; 
+}
+.services, .services .viewport {
+  width: 800px !important;
+}
+#scrollbarY .viewport { 
+  width: 565px;
+  height: 180px;
+  overflow: hidden;
+  position: relative;
+}
+#scrollbarY .overview {
+  list-style: none;
+  position: absolute;
+  left: 0; 
+  top: 0;
+  padding: 0;
+  margin: 0;
+}
+#scrollbarY .scrollbar{
+  position: relative;
+  background-position: 0 0; 
+  float: right; 
+  width: 1px;
+  background-color: #323232;
+}
+#scrollbarY .track {
+  height: 100%;
+  width:13px;
+  position: relative; 
+  padding: 0 1px;
+}
+.services#scrollbarY .track{
+  display: none;
+}
+#scrollbarY .thumb { 
+  background: #323232;
+  height: 33px;
+  width: 11px;
+
+  border-radius: 4px;
+    -o-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+  
+  cursor: pointer;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: -5px; 
+  
+}
+#scrollbarY .thumb .end { background: transparent url(../images/bg-scrollbar-thumb-y.html) no-repeat 50% 0; overflow: hidden; height: 5px; width: 25px; }
+#scrollbarY .disable { display: none; }
+
+.left-block,
+.right-block{
+  display: inline-block;
+  vertical-align: top;
+  width: 380px;
+}
+.left-block{
+  margin-right: 30px;
+  text-align: right;
+}
+.right-block{
+  
+}
+
+
+
+
+/* --- */
+#scrollbarX .thumb{
+  background: #323232;
+  height: 11px;
+/*  width: 11px;*/
+
+  border-radius: 4px;
+    -o-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+  cursor: pointer;
+  overflow: hidden;
+  position: absolute;
+  left: 0; 
+  top: -5px; 
+}
+#scrollbarX .scrollbar {
+  background-color: #323232;
+  position: relative;
+  margin: 0 0px 5px; 
+  clear: both; 
+  height: 1px; 
+}
+#scrollbarX{
+  width: 850px;
+/*  margin: 40px 0 10px;*/
+  margin: 40px auto 10px;
+}
+.partners{
+  width: 750px !important;
+}
+.partners .viewport{
+  width: 750px !important;
+  height: 130px !important;
+}
+#scrollbarX .viewport {
+  width: 830px;
+  height: 160px;
+  overflow: hidden;
+  position: relative;
+}
+#scrollbarX .overview {
+  list-style: none;
+  padding: 0; 
+  margin: 0; 
+  position: absolute;
+  left: 0; 
+  top: 0;  
+}
+#scrollbarX .overview li{
+  float: left;
+  list-style: none;
+}
+
+#scrollbarX .overview li a{
+  float: left;
+  width: 103px;
+  display: block;
+  position: relative;
+  margin-top: 20px;
+}
+#scrollbarX .overview li a:hover .zoom{
+  display: block;
+}
+.partners .overview li a{
+/*  width: 145px !important;*/
+  width: 160px !important;
+}
+#scrollbarX .overview li a img{
+  margin: 5px;
+}
+
+.pagination li{
+  float: left;
+  list-style: none;
+  margin: 0 5px;
+}
+
+#scrollbarX .track {
+  width: 100%;
+/*  height:15px; */
+  position: relative; 
+}
+
+/*-----------------------------*/
+/*
+.zoom{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  display: none;
+  background-color: red;
+  left: 0;
+  top: 0;
+  z-index: 10000;
+}
+*/
+
+.zoom{
+  display: none;
+  
+  position: absolute;
+  top: -20px;
+  left: -14px;
+}
+
+

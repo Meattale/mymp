@@ -1,0 +1,740 @@
+div.vvc_site_button_1 {
+    font-size:   20px;
+    font-family: arial;
+    width:       144px;
+    height:      100px;
+    color:       #5B5B5B;
+    text-align:  center;
+    padding:     0px;
+}
+
+div.vvc_site_button_2 {
+    font-size:   20px;
+    font-family: arial;
+    width:       144px;
+    height:      100px;
+    color:       #5B5B5B;
+    text-align:  center;
+    padding:     0px;
+}
+
+div.vvc_site_button_3 {
+    font-size:   26px;
+    font-family: arial;
+    width:       200px;
+    height:      100px;
+    color:       #5B5B5B;
+    text-align:  center;
+    padding:     0px;
+}
+
+
+div.vvc_site_button_4 {
+    font-size:   18px;
+    font-family: arial;
+    width:       362px;
+    height:      40px;
+    color:       #5B5B5B;
+    text-align:  left;
+    padding:     0px;
+}
+
+div.vvc_site_button_5 {
+    font-size:   18px;
+    font-family: arial;
+    width:       362px;
+    height:      40px;
+    color:       #5B5B5B;
+    text-align:  left;
+    padding:     0px;
+}
+
+input.vvc_site_input{
+    width:        22px;
+    height:       14px;
+    font-size:    12px;
+    font-family:  arial;
+    margin-left:  2px;
+    text-align:   center;
+    color:        #5B5B5B;
+    border:       #5B5B5B 1px solid;
+    background:   #FFF;
+}
+
+
+input.VVC_EDIT_FIELD{
+    width:         300px;
+    font-size:     18px;
+    font-family:   arial;
+    text-align:    center;
+    color:         #666;
+    border-radius: 8px;
+    background:    #FFF;
+    border:        #090 1px solid;
+}
+
+input.VVC_DATE{
+    cursor: pointer;
+    background: #FFF url(../../../../../../../../vsevcredit.ru/widget/img/dt.gif);
+}
+
+select.VVC_EDIT_SELECT{
+    width:         300px;
+    font-size:     18px;
+    font-family:   arial;
+    text-align:    center;
+    color:         #666;
+    border-radius: 8px;
+    background:    #FFF;
+}
+
+#VVC_CALC_MAIN_PANE{
+	margin-left:   7px;
+	margin-top:    10px;
+	margin-bottom: 7px;
+	width:         731px;
+	height:        155px;
+	background:    url(http://vsevcredit.ru/widget/img/calcbg.png);
+}
+
+#VVC_CALC_NOTE{
+    margin:         0px;
+    font-size:      14px;
+    font-family:    arial;
+	color:          #666;
+	padding-left:   7px;
+	padding-top:    0px;
+	padding-bottom: 6px;
+	padding-right:  0px;
+}
+
+#VVC_CALC_LEFT_PANE{
+    float:        left;
+    padding:      0px;
+    margin:       0px;
+    width:        550px;
+}
+
+#VVC_CALC_RIGHT_PANE{
+    float:        left;
+    padding:      0px;
+    margin:       0px;
+    width:        170px;
+    overflow:     hidden;
+}
+
+#VVC_CALC_DIV_SPLIT{
+    margin-top:  0px;
+    height:      5px;
+    width:       1px;
+    overflow:    hidden;
+}
+
+#VVC_CALC_SLIDE_BACK{
+    cursor:pointer;
+    text-align:left;
+    padding:0px;
+    margin-left:2px;
+    margin-top:19px;
+    height:32px;
+    width:508px;
+    background:url(http://vsevcredit.ru/widget/img/slbg1.png);
+}
+
+#VVC_CALC_PAY1_PANE{
+    padding:         0px;
+    margin:          0px;
+    height:          32px;
+    width:           508px;
+    background:      url(http://vsevcredit.ru/widget/img/slbg2.png) no-repeat;
+    background-size: 5px 32px;
+}
+
+#VVC_CALC_MONTH_PANE{
+    padding:         0px;
+    margin:          0px;
+    height:          32px;
+    width:           508px;
+    background:      url(http://vsevcredit.ru/widget/img/slbg2.png) no-repeat;
+    background-size:495px 32px;
+}
+
+#VVC_CALC_PAY1_SLIDER{
+    margin-left:   5px;
+    margin-top:    0px;
+    margin-right:  0px;
+    margin-bottom: 0px;
+    height:        32px;
+    width:         12px;
+    padding:       0px;
+    cursor:        e-resize;
+    background:    url(http://vsevcredit.ru/widget/img/sl.png);
+}
+
+#VVC_CALC_MONTH_SLIDER{
+    margin-left:   490px;
+    margin-top:    0px;
+    margin-right:  0px;
+    margin-bottom: 0px;
+    height:        32px;
+    width:         12px;
+    padding:       0px;
+    cursor:        e-resize;
+    background:    url(http://vsevcredit.ru/widget/img/sl.png);
+}
+
+#VVC_CALC_PAY1{
+    border:        0px;
+    padding:       0px;
+    background:    #FFF;
+    margin-top:    18px;
+    margin-left:   20px;
+    margin-bottom: 0px;
+    margin-right:  0px;
+    width:         150px;
+    height:        18px;
+    font-size:     18px;
+    text-align:    center;
+    font-family:   arial;
+    display:       block;
+}
+
+#VVC_CALC_MONTH{
+    border:        0px;
+    padding:       0px;
+    background:    #FFF;
+    margin-top:    36px;
+    margin-left:   20px;
+    margin-bottom: 0px;
+    margin-right:  0px;
+    width:         150px;
+    height:        18px;
+    font-size:     18px;
+    text-align:    center;
+    font-family:   arial;
+    display:       block;
+}
+
+#VVC_CALC_PAY2{
+    padding:       0px;
+    background:    #FFF;
+    margin-top:    33px;
+    margin-left:   20px;
+    margin-bottom: 0px;
+    margin-right:  0px;
+    width:         150px;
+    height:        18px;
+    font-size:     18px;
+    text-align:    center;
+    font-family:   arial;
+    display:       block;
+}
+
+#VVC_CONS_MAIN_PANE{
+	margin:  5px;
+	width:   185px;
+	padding: 0px;
+}
+
+#VVC_CONS_TOP{
+	width:    185px;
+	height:   30px;
+	padding:  0px;
+	margin:   0px;
+	overflow: hidden;
+}
+
+#VVC_CONS_BTN_CLOSE{
+    float  : right;
+    margin : 5px;
+    cursor : pointer;
+}
+
+#VVC_CONS_CHAT_PANE{
+	padding:  0px;
+	margin:   0px;
+}
+
+#VVC_CONS_LABEL_MAIN{
+	padding:  0px;
+	margin:   0px;
+    font-weight: bold;
+    font-family: arial;
+    font-size:   16px;
+    color:       #000;
+}
+
+#VVC_CONS_LABEL_QST{
+	padding:       0px;
+	margin-left:   0px;
+	margin-right:  0px;
+    margin-top:    10px;
+    margin-bottom: 10px;
+    font-family:   arial;
+    font-size:     10px;
+    color:         #666;
+}
+
+#VVC_CREDIT_CALC{    text-align:    left;
+	margin-left:   0px;
+	margin-right:  0px;
+	margin-bottom: 0px;
+	margin-top:    2px;
+	padding:       10px;
+    border:        #B2B2B2 1px solid;
+    border-radius: 10px;
+}
+
+#VVC_ONLINE_CHAT{
+    text-align:    left;
+	height:        240px;
+	width:         550px;
+	margin:        0px;
+    background:    #FFF;
+    overflow:      auto;
+    border:        #B2B2B2 1px solid;
+    border-radius: 10px;
+    padding:       5px;
+    font-family:   arial;
+    color:         #333;
+    font-size:     12px;
+}
+
+#VVC_ONLINE_CHAT_MESSAGE{
+    background:    #FFF;
+    border:        #B2B2B2 1px solid;
+    resize:        none;
+    height:        200px;
+    width:         175px;
+    border-radius: 10px;
+    font-family:   arial;
+    font-size:     12px;
+    color:         #000;
+    padding:       5px;
+}
+
+
+#VVC_CONS_FORM_PANE{
+	padding:       0px;
+    height:        200px;
+    overflow:      hidden;
+    margin-top:    10px;
+	margin-left:   0px;
+	margin-right:  0px;
+    margin-bottom: 0px;
+}
+
+#VVC_CONS_LABEL_YOUR_QST{
+	padding:       0px;
+	margin-left:   0px;
+	margin-right:  0px;
+    margin-top:    10px;
+    margin-bottom: 5px;
+    font-family:   arial;
+    font-size:     10px;
+    color:         #000;
+}
+
+#VVC_CONS_QST_PANE{
+	margin:        0px;
+	padding:       0px;
+    background:    #FFF;
+    overflow:      hidden;
+    border-radius: 10px;
+}
+
+#VVC_CONS_BTN_SEND{
+    cursor:        pointer;
+    margin-top:    5px;
+    margin-left:   75px;
+    margin-right:  0px;
+    margin-bottom: 0px;
+}
+
+#VVC_WAIT_PANE{
+    text-align:   center;
+    margin:       0px;
+    padding:      20px;
+    font-family:  arial;
+    font-size:    16px;
+    color:        #333;
+    background:   #EEE;
+    border-radius: 15px;
+}
+
+#VVC_BASE_PANE{
+    width:        760px;    text-align:   center;
+    margin:       0px;
+    padding:      20px;
+    font-family:  arial;
+    font-size:    16px;
+    color:        #333;
+    background:   #EEE;
+    border-radius: 15px;
+}
+
+#VVC_WAIT_BTN_PANE{
+	padding:     20px;
+	margin:      0px;
+    text-align:  center;
+}
+
+#VVC_MESSAGE_PANE{
+    margin:      0px;
+    padding:     20px;
+    font-family: arial;
+    font-size:   14px;
+    color:       #000;
+}
+
+#VVC_INFO_PANE{
+    width:   800px;
+    height:  430px;
+    padding: 0px;
+    margin:  0px;
+    background:#D9DAD9;
+}
+
+#VVC_INFO_PANE_LEFT{
+    padding:       0px;
+    margin-bottom: 0px;
+    margin-top:    0px;
+    margin-right:  0px;
+    margin-left:   7px;
+    width:         753px;
+    background:    #D9DAD9;
+    float:         left;
+}
+
+#VVC_INFO_PANE_RIGHT{
+	padding:    0px;
+	margin:     0px;
+    width:      33px;
+    background: #D9DAD9;
+    float:      right;
+}
+
+#VVC_BTN_ON_CONS{
+    padding:       0px;
+    background:    url(http://vsevcredit.ru/widget/img/qs.png);
+    height:        127px;
+    width:         33px;
+    margin-bottom: 0px;
+    margin-right:  0px;
+    margin-left:   0px;
+    margin-top:    50px;
+    cursor:        pointer;
+}
+
+#VVC_BTN_ON_CALL{
+    background:url(http://vsevcredit.ru/widget/img/ph.png);
+    height:150px;
+    width:33px;
+    margin:0px;
+    padding:0px;
+    cursor:pointer;
+}
+
+#VVC_MAIM_PANE{
+    font-family: arial;
+    font-size:   14px;
+    color:       #000;
+    margin:      0px;
+    padding:     0px;
+    width:       800px;
+    background:  #D9DAD9;
+    float:       left;
+}
+
+#VVC_TOP_1{
+    width:      800px;
+    height:     125px;
+    background: url(http://vsevcredit.ru/widget/img/top1.png);
+    padding:    0px;
+    margin:     0px;
+}
+
+#VVC_TOP_2{
+    width:      800px;
+    height:     125px;
+    background: url(http://vsevcredit.ru/widget/img/top2.png);
+    padding:    0px;
+    margin:     0px;
+}
+
+#VVC_BTN_CLOSE{
+    float:  right;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#VVC_STEP_PANE{
+    width:   800px;
+    height:  43px;
+    padding: 0px;
+    margin:  0px;
+}
+
+#VVC_ONLINE{
+    float:       left;
+    width:       195px;
+    border-left: #FFF 5px solid;
+    background:  #D9DAD9;
+    margin:      0px;
+    padding:     0px;
+}
+
+#VVC_GOODS_TABLE_HEAD{
+    border-top:  #FFF 3px solid;
+    margin:      0px;
+    padding:     0px;
+}
+
+#VVC_GOODS_TABLE_TD_HEAD{
+    text-align:    center;
+    color:         #FFF;
+    background:    #9C9D9D;
+    border-bottom: #FFF 3px solid;
+    font-weight:   bold;
+    font-size:     20px;
+    font-family:   arial;
+    padding:       3px;
+    margin:        0px;
+}
+
+#VVC_GOODS_TABLE_TD_HEAD_LEFT{
+    text-align:    left;
+    color:         #FFF;
+    background:    #9C9D9D;
+    border-bottom: #FFF 3px solid;
+    font-weight:   bold;
+    font-size:     20px;
+    font-family:   arial;
+    padding:       3px;
+    margin:        0px;
+}
+
+#VVC_GOODS_TABLE_SCROLL{
+    padding:    0px;
+    margin:     0px;
+    width:      753px;
+    max-height: 100px;
+    overflow:   auto;
+}
+
+#VVC_GOODS_TABLE{
+    padding:    0px;
+    margin:     0px;
+}
+
+#VVC_GOODS_TABLE_TD{
+    text-align:  center;
+    margin:      0px;
+    color:       #000;
+    padding:     3px;
+    font-size:   16px;
+    font-family: arial;
+}
+
+#VVC_GOODS_TABLE_TD_LEFT{
+    text-align:  left;
+    margin:      0px;
+    color:       #000;
+    padding:     3px;
+    font-size:   16px;
+    font-family: arial;
+}
+
+#VVC_GOODS_TABLE_FOOT{
+    padding:       0px;
+    border-top:    #FFF 3px solid;
+    margin-bottom: 5px;
+    margin-top:    0px;
+    margin-left:   0px;
+    margin-right:  0px;
+}
+
+#VVC_GOODS_TABLE_FOOT_TD_RIGHT{
+    text-align:  right;
+    color:       #000;
+    background:  #B1B2B2;
+    padding:     3px;
+    margin:      0px;
+    font-size:   20px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#VVC_GOODS_TABLE_FOOT_TD{
+    text-align:  center;
+    color:       #000;
+    background:  #B1B2B2;
+    margin:      0px;
+    padding:     3px;
+    font-size:   20px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#VVC_HELLO{
+    text-align:  center;
+    margin-top:  30px;
+    padding:     10px;
+    color :      #666;
+    font-size:   16px;
+    font-family: arial;
+}
+
+#VVC_REG_ERROR_PANE{
+    text-align:  center;
+    margin:      20px;
+    padding:     20px;
+    font-size:   14px;
+    font-family: arial;
+    color:       #666;
+}
+
+#VVC_LINK{
+    font-size:   16px;
+    font-family: arial;
+    color:       #666
+}
+
+#VVC_REG_FORM_NOTE{
+    color:       #666;
+    padding:     0px;
+    margin:      10px;
+    text-align:  center;
+    font-size:   14px;
+    font-family: arial;
+}
+
+#VVC_BANKS_PANE{
+    background:    #FFF;
+    text-align:    center;
+    border-bottom: #D9DAD9 6px solid;
+    padding:       0px;
+    margin:        0px;
+}
+
+#VVC_BANKS_PANE_2{
+    background:    #FFF;
+    text-align:    center;
+    padding:       0px;
+    margin:        5px;
+}
+
+#VVC_START_FILL_APP{
+    padding:     0px;
+    margin:      20px;
+    color:       #666;
+    font-size:   14px;
+    font-family: arial;
+}
+
+#VVC_BUTTON_AGREEMENT{
+	display: inline;
+}
+
+#VVC_BUTTON_AGREEMENT_LABEL{
+    padding:     0px;
+    margin:      0px;
+	display:     inline;
+    color:       #666;
+    font-size:   14px;
+    font-family: arial;
+}
+
+#VVC_ON_BANK{
+    font-size:   14px;
+    font-family: arial;
+    text-align:  center;
+    color:       #666;
+    margin:      30px;
+}
+
+#VVC_APP_FORM_PANE{
+	width:   800px;
+	padding: 0px;
+	margin:  0px;
+}
+
+#VVC_APP_FORM_PANE_LEFT{
+	padding:       0px;
+	margin-top:    0px;
+	margin-bottom: 0px;
+	margin-right:  0px;
+	margin-left:   7px;
+	width:         753px;
+	background:    #D9DAD9;
+	float:         left;
+}
+
+#VVC_REG_FORM_ERR{
+    color:       #F00;
+    padding:     0px;
+    margin:      10px;
+    text-align:  center;
+    font-size:   14px;
+    font-family: arial;
+}
+
+#VVC_REG_FORM_TABLE{
+    font-size:   16px;
+    font-family: arial;
+    color:       #666;
+    margin:      0px;
+    padding:     0px;
+}
+
+#VVC_REG_FORM_TABLE_TD_LABEL{
+    text-align:     right;
+    font-size:      16px;
+    font-family:    arial;
+    color:          #666;
+    padding-right:  50px;
+    padding-top:    3px;
+    padding-bottom: 15px;
+    padding-left:   3px;
+    margin:         0px;
+    font-weight:    bold;
+}
+
+#VVC_REG_FORM_TABLE_TD{
+    text-align:     left;
+    font-size:      16px;
+    font-family:    arial;
+    color:          #666;
+    padding-right:  50px;
+    padding-top:    3px;
+    padding-bottom: 15px;
+    padding-left:   3px;
+    margin:         0px;
+    font-weight:    bold;
+}
+
+INPUT.VVC_REG_FORM_INPUT{
+    font-size:     18px;
+    font-family:   arial;
+    text-align:    center;
+    color:         #666;
+    border:        #666 1px solid;
+    border-radius: 8px;
+    background:    #FFF;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+}
+
+SELECT.VVC_REG_FORM_INPUT{
+    font-size:     18px;
+    font-family:   arial;
+    color:         #666;
+    border:        #666 1px solid;
+    border-radius: 8px;
+    background:    #FFF;
+    text-align:    center;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+}
